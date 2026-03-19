@@ -5,6 +5,8 @@
 > 한국디자인진흥원 산업디자인전문회사 사이트 고도화 사업 —
 > "기업 제출 증빙서류 이미지 내 텍스트 추출 → 자격 요건 교차 검증" AI 필터링 데모
 
+### **[Live Demo — doc-demo.up.railway.app](https://doc-demo.up.railway.app)**
+
 ---
 
 ## 주요 기능
